@@ -1,5 +1,5 @@
 
-- 👋 Hi, I’m @danieladeba
+- 👋 Hi, I’m @daniel.a.olika
 - 👀 I’m interested in coding...
 - 🌱 I’m currently learning Addis Ababa Institute of Technology...
 - I am full stack developer
